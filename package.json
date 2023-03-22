@@ -2,6 +2,7 @@
   "author": "Denys Reshetniak",
   "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
+  "description": "FreeCodeCamp Node.js Course",
   "dependencies": {
     "express": "^4.14.0",
     "@freecodecamp/example": "1.1.0"
@@ -14,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://idontknow/todo.git"
+    "url": "https://github.com/Reshetnyak/boilerplate-npm"
   }
 }
