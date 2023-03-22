@@ -1,14 +1,19 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "author": "Denys Reshetniak",
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.1.0"
+  },
+  "keywords": ["freecodecamp", "node.js", "learning node"],
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
