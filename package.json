@@ -5,7 +5,7 @@
   "description": "FreeCodeCamp Node.js Course",
   "dependencies": {
     "express": "^4.14.0",
-    "@freecodecamp/example": "~1.2.13"
+    "@freecodecamp/example": "^1.2.13"
   },
   "keywords": ["freecodecamp", "node.js", "learning node"],
   "license": "MIT",
